@@ -52,7 +52,7 @@ Set an inactivity period of 14 days for the above users
 Lock the `john` user immediately
 
 ### 🔹 4.2
-Lock the `jane` user on **1st July 2023**
+Lock the `jane` user on **1st July 2026**
 
 ### 🔹 4.3
 The user `tom` is under investigation, thus change the user's shell to `nologin`
